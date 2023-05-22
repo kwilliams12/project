@@ -4,8 +4,8 @@
     height: 380px;
     width: 400px;
     margin: auto;
-    background-color: #191b28;
-    box-shadow: rgba(0, 0, 0, 0.19) 1px 10px 20px, rgba(0, 0, 0, 0.23) 1px 6px 6px;
+    background-color: #fffc0c;
+    box-shadow: rgb(252, 81, 48) 1px 10px 20px, rgb(236, 243, 236) 1px 6px 6px;
 }
 
 .display-box {
@@ -19,13 +19,13 @@
 }
 
 #btn {
-    background-color: #fb0066;
+    background-color: #fffc0c;
 }
 
 input[type=button] {
     font-family: 'Orbitron', sans-serif;
     background-color: #64278f;
-    color: white;
+    color: #000000;
     border: solid black 1px;
     width: 100%;
     border-radius: 5px;
@@ -34,7 +34,7 @@ input[type=button] {
 }
 
 input:active[type=button] {
-    background: #e5e5e5;
+    background: #ff0028;
     -webkit-box-shadow: inset 1px 1px 5px #c1c1c1;
     -moz-box-shadow: inset 1px 1px 5px #c1c1c1;
     box-shadow: inset 1px 1px 5px #c1c1c1;
